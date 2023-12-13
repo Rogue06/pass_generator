@@ -44,7 +44,7 @@ function copyMdp(){
         alert('Mot de pass copié !')
     } else {
         // Si non 
-        alert('Veuillez gégérer un Mot de passe')
+        alert('Veuillez générer un Mot de passe')
     }
 }
 
